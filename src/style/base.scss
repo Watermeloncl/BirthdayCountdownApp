@@ -2,6 +2,9 @@ $color-blue-one: #5496e6;
 $color-blue-two: #518bde;
 $color-yellow-one: #f7d754;
 $color-gray-one: #444;
+$color-gray-two: #e6e6e6;
+$font-roboto: "Roboto Condensed";
+$font-mont: "Montserrat";
 
 .grid {
     height: 100vh;
@@ -21,7 +24,7 @@ $color-gray-one: #444;
 
         font-size: 18px;
         color: white;
-        font-family: 'Montserrat';
+        font-family: $font-mont;
         font-weight: 300;
         line-height: 22px;
         padding: 55px 75px;
