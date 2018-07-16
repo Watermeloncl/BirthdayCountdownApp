@@ -1,5 +1,5 @@
 .picker {
-    grid-column: 5/10;
+    grid-column: 5/9;
     grid-row: 2/3;
     justify-self: center;
     align-self: end;
@@ -9,7 +9,7 @@
 
     input {
         font-size: 80px;
-        font-family: "Roboto Condensed";
+        font-family: $font-roboto;
         font-weight: bold;
 
         color: $color-gray-one;

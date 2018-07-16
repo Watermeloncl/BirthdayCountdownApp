@@ -8,14 +8,14 @@
     text-align: center;
     font-family: $font-roboto;
     color: white;
-    font-weight: 200;
+    font-weight: 100;
 
     background-color: transparent;
     border: none;
 
-    transform: rotate(-73deg) translate(-70px, -70px);
+    transform: rotate(-70deg) translate(-70px, -70px);
 
-    &:active {
+    &:focus {
         outline: none;
     }
 
